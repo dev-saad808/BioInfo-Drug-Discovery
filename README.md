@@ -39,8 +39,7 @@ The primary goal of this project is to develop a predictive model that estimates
   - Matplotlib
   - Seaborn
 - **Tools**:
-  - PaDEL-Descriptor
-  - Jupyter Notebook
+  - Jupyter Notebook / [Google Colab](https://colab.research.google.com/drive/1ZILBpFbLDzwolyROXY4EMQLgN1CHGfAU#scrollTo=hUv5C-B6qf6N)
 
 ## Getting Started
 
